@@ -458,17 +458,17 @@ La matriz completa de permisos, las vistas de seguridad y las pruebas por cuenta
 | Integrante | Aporte |
 |---|---|
 | Jhorman Fabian Peñaloza Sierra | Procedimientos almacenados (20) y sus pruebas; integración y revisión del repositorio |
-| _[Nombre del integrante]_ | Modelo lógico y DDL |
-| _[Nombre del integrante]_ | Datos iniciales (DML) |
-| _[Nombre del integrante]_ | Consultas de usuarios y membresías (01-20) |
-| _[Nombre del integrante]_ | Consultas de espacios y reservas (21-40) |
-| _[Nombre del integrante]_ | Consultas de pagos y facturación (41-60) |
-| _[Nombre del integrante]_ | Consultas de accesos y asistencias (61-80) |
-| _[Nombre del integrante]_ | Consultas avanzadas (81-100) |
-| _[Nombre del integrante]_ | Funciones (20) |
-| _[Nombre del integrante]_ | Triggers (20) y sus pruebas |
-| _[Nombre del integrante]_ | Eventos (20) |
-| _[Nombre del integrante]_ | Roles, permisos y usuarios |
+| Todo el grupo | Modelo lógico y DDL |
+| Jhorman Fabian Peñaloza Sierra | Datos iniciales (DML) |
+| Keiler Sebastian Serrano Rosales  | Consultas de usuarios y membresías (01-20) |
+| Carlos Mario Velásquez Angulo | Consultas de espacios y reservas (21-40) |
+| Carlos Mario Velásquez Angulo | Consultas de pagos y facturación (41-60) |
+| Andrés Felipe Jiménez Ramírez | Consultas de accesos y asistencias (61-80) |
+| Andrés Felipe Jiménez Ramírez | Consultas avanzadas (81-100) |
+| Keiler Sebastian Serrano Rosales | Funciones (20) |
+| Carlos Mario Velásquez Angulo | Triggers (20) y sus pruebas |
+| Andrés Felipe Jiménez Ramírez | Eventos (20) |
+| Jhorman Fabian Peñaloza Sierra | Roles, permisos y usuarios |
 
 ---
 
@@ -478,5 +478,7 @@ Proyecto académico con fines educativos. Puede reutilizarse citando a sus autor
 
 Para preguntas o problemas con la implementación, abre un *issue* en este repositorio o escribe a:
 
-- Jhorman Fabian Peñaloza Sierra — _[correo o usuario de GitHub]_
-- _[Integrante]_ — _[correo o usuario de GitHub]_
+- Jhorman Fabian Peñaloza Sierra — jofps09@gmail.com
+- Andrés Felipe Jiménez Ramírez — andresfelipejr@ufps.edu.co
+- Carlos Mario Velásquez Angulo
+- Keiler Sebastian Serrano Rosales 
