@@ -2,7 +2,7 @@
 
 Base de datos MySQL que administra las operaciones de un coworking moderno: usuarios y membresías, reservas de espacios de trabajo, servicios adicionales, ventas, pagos y facturación, control de acceso con RFID/QR, asistencia y reportes financieros.
 
-![Modelo lógico](docs/modelo_logico.png)
+![Modelo lógico](docs/modelo_logico.drawio.png)
 
 ---
 
